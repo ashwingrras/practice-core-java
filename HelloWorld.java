@@ -5,5 +5,7 @@ public class HelloWorld
 	{
 		System.out.println("Hello Wolrd");
 		System.out.println("Test Example");
+		System.out.println("new line added");
+
 	}
-}
+}		
